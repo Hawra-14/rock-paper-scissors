@@ -1,0 +1,23 @@
+body {
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100dvh;
+}
+
+.choice {
+    font-size: 40px;
+    border-radius: 50%;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+.choice:hover {
+    border: 3px solid red;
+    cursor: pointer;
+}
+
+
