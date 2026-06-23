@@ -20,6 +20,10 @@ body {
     cursor: pointer;
 }
 
-.hidden {
+/* .hidden {
     visibility: hidden;
+} */
+
+#result-display {
+    min-height: 20px;
 }
